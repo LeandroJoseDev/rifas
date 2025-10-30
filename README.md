@@ -25,14 +25,14 @@
 |021|Mara Lúcia|14/10|
 |022|Cirley|30/10|
 |023|Cirley|30/10|
-|024|-|-|
+|024|Marluce|3010|
 |025|Mariana Alda|17/10|
 |026|Marluce|30/10|
 |027|Mariana Alda|17/10|
 |028|Gisele Andrade|30/10|
 |029|Líbia amiga da má Regina marré|30/10|
 |030|Marluce|30/10|
-|031|-|-|
+|031|Marluce|30/10|
 |032|-|-|
 |033|-|-|
 |034|-|-|
