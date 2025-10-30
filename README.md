@@ -6,7 +6,7 @@
 |002|Cássia Simões|14/10|
 |003|Cássia Simões|14/10|
 |004|Cássia Simões|14/10|
-|005|-|-|
+|005|Cássia Simões|14/10|
 |006|Cinthia Tavares|24/10|
 |007|Mariana Alda|17/10|
 |008|Cinthia Tavares|24/10|
@@ -27,11 +27,11 @@
 |023|Cirley|30/10|
 |024|-|-|
 |025|Mariana Alda|17/10|
-|026|-|-|
+|026|Marluce|30/10|
 |027|Mariana Alda|17/10|
-|028|-|-|
+|028|Gisele Andrade|30/10|
 |029|Líbia amiga da má Regina marré|30/10|
-|030|-|-|
+|030|Marluce|30/10|
 |031|-|-|
 |032|-|-|
 |033|-|-|
@@ -69,7 +69,7 @@
 |065|Miguxa|30/10|
 |066|Miguxa|30/10|
 |067|Miguxa|30/10|
-|068|-|-|
+|068|Gisele Andrade|30/10|
 |069|Diully|30/10|
 |070|Líbia amiga da má Regina maré|30/10|
 |071|-|-|
@@ -77,7 +77,7 @@
 |073|-|-|
 |074|-|-|
 |075|-|-|
-|076|-|-|
+|076|Gisele Andrade|30/10|
 |077|-|-|
 |078|-|-|
 |079|-|-|
