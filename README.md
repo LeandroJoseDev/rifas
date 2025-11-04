@@ -33,9 +33,9 @@
 |029|Líbia amiga da má Regina marré|30/10|
 |030|Marluce|30/10|
 |031|Marluce|30/10|
-|032|-|-|
-|033|-|-|
-|034|-|-|
+|032|Maria Aparecida Malheiros|03/11|
+|033|Maria Aparecida Malheiros|03/11|
+|034|Maria Aparecida Malheiros|03/11|
 |035|-|-|
 |036|-|-|
 |037|-|-|
